@@ -1,16 +1,6 @@
-# setting_ui
+<p>
 
-A new Flutter project.
+  <img src = "https://user-images.githubusercontent.com/125651843/226234057-d600379b-aba1-4048-bf9b-4df0b12e2c3b.png" width=20% height=40%>
+  <img src = "https://user-images.githubusercontent.com/125651843/226234064-473d02ef-af7e-4889-8117-99a9907256a1.png" width=20% height=40%>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
